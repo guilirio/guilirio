@@ -64,11 +64,6 @@
   <img src="https://ghchart.rshah.org/1f6feb/guilirio" alt="Gráfico de contribuições" width="90%">
 </div>
 
-### 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilirio&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Troféus">
-</div>
 
 ---
 
